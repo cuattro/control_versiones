@@ -1,0 +1,15 @@
+    .activo {
+        color : #ffffff;
+        text-align : center;
+        background-color: #07C20D;
+        border-radius: 6px;
+        padding: 2px;
+        }
+
+    .inactivo {
+        color : #ffffff;
+        text-align : center;
+        background-color: #E0150F;
+        border-radius: 6px;
+        padding: 2px;
+        }
